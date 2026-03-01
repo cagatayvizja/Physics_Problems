@@ -63,9 +63,8 @@ Assume:
 - Earth radius $R_E = 6370\,\text{km}$,
 - Earth’s rotation rate: full rotation in 24 hours (i.e., $360^\circ$ in 24 hours),
 - A simple “sharp-edge atmosphere” model in which a Sun ray reaches the observer by just grazing the top of the atmosphere, giving
-  $$
-  \cos\phi = \frac{R_E}{R_E+h}.
-  $$
+
+$$\cos\phi = \frac{R_E}{R_E+h}.$$
 
 Find:
 

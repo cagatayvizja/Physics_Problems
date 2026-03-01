@@ -62,9 +62,8 @@ Załóż:
 - promień Ziemi $R_E = 6370\,\text{km}$,
 - tempo obrotu Ziemi: pełen obrót w 24 godziny (tj. $360^\circ$ w 24 godziny),
 - prosty model „atmosfery o ostrej granicy”, w którym promień Słońca dociera do obserwatora, ledwie muskając górną granicę atmosfery, co prowadzi do zależności
-  $$
-  \cos\phi = \frac{R_E}{R_E+h}.
-  $$
+
+$$\cos\phi = \frac{R_E}{R_E+h}.$$
 
 Wyznacz:
 

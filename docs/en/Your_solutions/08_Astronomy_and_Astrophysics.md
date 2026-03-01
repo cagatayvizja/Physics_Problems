@@ -69,9 +69,7 @@ Assume:
 - Earth’s rotation rate $360^\circ$ per 24 hours,
 - A simple “sharp-edge atmosphere” model in which a Sun ray reaches the observer by just grazing the top of the atmosphere, giving
 
-$$
-\cos\delta = \frac{R_E}{R_E+h}.
-$$
+$$\cos\delta = \frac{R_E}{R_E+h}.$$
 
 Find the solar depression angle $\delta$ (in degrees) from the measured time $t$ and the atmospheric height $h$ in km.
 
